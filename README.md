@@ -1,4 +1,5 @@
 # FireDetection
-![screenshot](Screenshot/img1.png)
-![screenshot](Screenshot/img2.png)
+![screenshot](screenshot/img1.png)
+
+![screenshot](screenshot/img2.png)
 
